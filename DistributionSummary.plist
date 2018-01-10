@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Scroll Data.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6026F0358360A8532CE7BBE3C48C3D89948F59A5</string>
+				<key>dateExpires</key>
+				<string>1/9/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>R76ADJ3JV7.Arman-Aydemir.Scroll-Data</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>R76ADJ3JV7</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>R76ADJ3JV7.Arman-Aydemir.Scroll-Data</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Scroll Data.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>eaefdf8d-61b4-4f12-b071-6a788393281a</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>R76ADJ3JV7</string>
+				<key>name</key>
+				<string>Buket Aydemir</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

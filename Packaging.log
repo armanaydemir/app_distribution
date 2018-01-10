@@ -1,0 +1,1751 @@
+2018-01-10 08:01:10 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fc5023c6be0; archive(resolved)='<IDEArchive: 0x7fc4fe1b33c0>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team(resolved)='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fc5023c6be0; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fc502351220; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc5024f6920; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc4fffb9af0; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc50271b9c0; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc51607b090; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc503057ca0; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc503024f10; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc5161c7a00; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='<IDEProvisioningBasicTeam 0x7fc503393600: teamID: R76ADJ3JV7, teamName: Buket Aydemir>'>
+	<IDEDistributionContext: 0x7fc501426f60; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fc50350f100>', team='(null)'>
+	<IDEDistributionContext: 0x7fc51616c770; archive = '<IDEArchive: 0x7fc4fe1b33c0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fc5023c6be0>
+2018-01-10 08:01:10 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-01-10 08:01:10 +0000  Processing step: IDEDistributionCopyItemStep
+2018-01-10 08:01:10 +0000  Running /usr/bin/ditto '-V' '/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app'
+2018-01-10 08:01:10 +0000  >>> Copying /Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app 
+2018-01-10 08:01:10 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-01-10 08:01:10 +0000  8461 bytes for ./_CodeSignature/CodeResources
+2018-01-10 08:01:10 +0000  copying file ./TextCell.nib ... 
+2018-01-10 08:01:10 +0000  2822 bytes for ./TextCell.nib
+2018-01-10 08:01:10 +0000  copying file ./Base.lproj/Main.storyboardc/mbO-Jk-rj2-view-xSG-2C-ts7.nib ... 
+2018-01-10 08:01:10 +0000  3684 bytes for ./Base.lproj/Main.storyboardc/mbO-Jk-rj2-view-xSG-2C-ts7.nib
+2018-01-10 08:01:10 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2018-01-10 08:01:10 +0000  964 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2018-01-10 08:01:10 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-67l-c2-P28.nib ... 
+2018-01-10 08:01:10 +0000  1947 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-67l-c2-P28.nib
+2018-01-10 08:01:10 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-01-10 08:01:10 +0000  3015 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2018-01-10 08:01:10 +0000  351 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2018-01-10 08:01:10 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-01-10 08:01:10 +0000  1790 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-01-10 08:01:10 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2018-01-10 08:01:10 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2018-01-10 08:01:10 +0000  copying file ./archived-expanded-entitlements.xcent ... 
+2018-01-10 08:01:10 +0000  388 bytes for ./archived-expanded-entitlements.xcent
+2018-01-10 08:01:10 +0000  copying file ./Scroll Data ... 
+2018-01-10 08:01:10 +0000  306384 bytes for ./Scroll Data
+2018-01-10 08:01:10 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2018-01-10 08:01:10 +0000  505792 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2018-01-10 08:01:10 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2018-01-10 08:01:10 +0000  68838944 bytes for ./Frameworks/libswiftCore.dylib
+copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2018-01-10 08:01:10 +0000  1268848 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2440736 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+257696 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+599280 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2018-01-10 08:01:10 +0000  27762864 bytes for ./Frameworks/libswiftFoundation.dylib
+2018-01-10 08:01:10 +0000  2018-01-10 08:01:10 +0000  /usr/bin/ditto exited with 0
+
+2018-01-10 08:01:10 +0000  copying file ./embedded.mobileprovision ... 
+7666 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+1177 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+2018-01-10 08:01:10 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-01-10 08:01:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc503306e40 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc4ff845d20:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCore.dylib'>'>
+2018-01-10 08:01:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4fe3072b0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc504205c90:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2018-01-10 08:01:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc502216a80 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc5022ef3b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2018-01-10 08:01:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc4ff826df0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc514f37f00:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDarwin.dylib'>'>
+2018-01-10 08:01:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc5026860e0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc514bdb060:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDispatch.dylib'>'>
+2018-01-10 08:01:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc50308f150 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc50239e9b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftFoundation.dylib'>'>
+2018-01-10 08:01:10 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc50162a6a0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc5149a1e80:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2018-01-10 08:01:10 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-01-10 08:01:10 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-01-10 08:01:10 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-01-10 08:01:10 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root' '--json' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool-json-filepath-rz5Dcp' '--compile-bitcode' '--output' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/IDEIPAProcessor.AppThinning.ITv' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2018-01-10 08:01:10 +0000  ruby 2.3.3p222 (2016-11-21 revision 56859) [universal.x86_64-darwin17]
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2497: warning: key :hasBitcode is duplicated and overwritten on line 2499
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2018-01-10 08:01:10 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:98: warning: assigned but unused variable - temp
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:109: warning: assigned but unused variable - e
+2018-01-10 08:01:10 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2018-01-10 08:01:10 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2018-01-10 08:01:10 +0000  OS X 10.13.3 17D29a
+2018-01-10 08:01:10 +0000  ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/", "LOGNAME"=>"ArmanAydemir", "HOME"=>"/Users/ArmanAydemir", "XPC_FLAGS"=>"0x0", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.6dFwyDnALv/Render", "USER"=>"ArmanAydemir", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.5TVB3sOhL0/Listeners", "DISPLAY"=>"/private/tmp/com.apple.launchd.X35KrAhcCG/org.macosforge.xquartz:0", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.13872", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x0:0x0"}
+ARGV: ["/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root", "--json", "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool-json-filepath-rz5Dcp", "--compile-bitcode", "--output", "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/IDEIPAProcessor.AppThinning.ITv", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+2018-01-10 08:01:10 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:101: warning: method redefined; discarding old to_h
+2018-01-10 08:01:10 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-01-10 08:01:10 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-01-10 08:01:10 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-01-10 08:01:10 +0000  Scanning IPA...
+2018-01-10 08:01:11 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) _CodeSignature Scroll\ Data
+2018-01-10 08:01:11 +0000      /usr/bin/python exited with pid 11011 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-01-10 08:01:11 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) TextCell.nib Scroll\ Data
+2018-01-10 08:01:11 +0000      /usr/bin/python exited with pid 11012 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-01-10 08:01:11 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Base.lproj Scroll\ Data
+2018-01-10 08:01:11 +0000      /usr/bin/python exited with pid 11013 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-01-10 08:01:11 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) archived-expanded-entitlements.xcent Scroll\ Data
+2018-01-10 08:01:11 +0000      /usr/bin/python exited with pid 11014 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-01-10 08:01:11 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Scroll\ Data Scroll\ Data
+2018-01-10 08:01:11 +0000      /usr/bin/python exited with pid 11015 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:327: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:11 +0000  Complete LinkageGraph:
+    Scroll Data.app/Scroll Data arm64 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib arm64
+        Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib arm64
+        Scroll Data.app/Frameworks/libswiftFoundation.dylib arm64
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib arm64
+    Scroll Data.app/Frameworks/libswiftCore.dylib arm64 ->
+    
+    Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib arm64 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib arm64
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib arm64
+    Scroll Data.app/Frameworks/libswiftDarwin.dylib arm64 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib arm64
+    Scroll Data.app/Frameworks/libswiftDispatch.dylib arm64 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib arm64
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib arm64
+    Scroll Data.app/Frameworks/libswiftObjectiveC.dylib arm64 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib arm64
+    Scroll Data.app/Frameworks/libswiftFoundation.dylib arm64 ->
+        Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib arm64
+        Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        Scroll Data.app/Frameworks/libswiftCore.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib arm64
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib arm64
+    Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib arm64 ->
+        Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib arm64
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib arm64
+        Scroll Data.app/Frameworks/libswiftCore.dylib arm64
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib arm64
+    Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7
+    Scroll Data.app/Frameworks/libswiftCore.dylib armv7 ->
+    
+    Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7
+    Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7s ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7s
+    Scroll Data.app/Frameworks/libswiftCore.dylib armv7s ->
+    
+    Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7s ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7s
+    Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib armv7 ->
+        Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7
+    Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib armv7 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7
+    Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7 ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7
+    Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib armv7s ->
+        Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+      
+2018-01-10 08:01:11 +0000    Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7s
+    Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib armv7s ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7s ->
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7s
+    Scroll Data.app/Frameworks/libswiftFoundation.dylib armv7 ->
+        Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib armv7
+        Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib armv7
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7
+    Scroll Data.app/Frameworks/libswiftFoundation.dylib armv7s ->
+        Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftCore.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftDarwin.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftDispatch.dylib armv7s
+        Scroll Data.app/Frameworks/libswiftObjectiveC.dylib armv7s
+2018-01-10 08:01:11 +0000  Validating IPA structure...
+2018-01-10 08:01:15 +0000  Compiling bitcode...
+2018-01-10 08:01:15 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCore.dylib --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCore.dylib.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCore.dylib
+2018-01-10 08:01:15 +0000    Compiling bitcode for arm64...
+    Compiling arm64 bitcode in 'libswiftCore.dylib'
+2018-01-10 08:01:41 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11224 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" 
+        -= Output =-
+        UUID: 9399792D-76DE-3474-8B44-96D5D3015EB7 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCore.dylibPkuGp0/libswiftCore.dylib.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios7.0" "-Xllvm" "-aarch64-use-tbi" "-parse-stdlib" "-O" "-module-name" "Swift" "-disable-llvm-optzns" "01.bc" "-o" "01.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 22 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "02" "-o" "02.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "03" "-o" "03.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+2018-01-10 08:01:41 +0000          Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "04" "-o" "04.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "05" "-o" "05.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "06" "-o" "06.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "07" "-o" "07.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "08" "-o" "08.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "09" "-o" "09.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "10" "-o" "10.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "11" "-o" "11.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "12" "-o" "12.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "13" "-o" "13.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jv
+2018-01-10 08:01:41 +0000  mdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "14" "-o" "14.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "15" "-o" "15.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "16" "-o" "16.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "17" "-o" "17.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "18" "-o" "18.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "19" "-o" "19.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "20" "-o" "20.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "21" "-o" "21.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "22" "-o" "22.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "23" "-o" "23.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9
+2018-01-10 08:01:41 +0000  FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "24" "-o" "24.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "25" "-o" "25.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "26" "-o" "26.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "27" "-o" "27.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "28" "-o" "28.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "29" "-o" "29.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "30" "-o" "30.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "31" "-o" "31.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "32" "-o" "32.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "33" "-o" "33.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.a
+2018-01-10 08:01:41 +0000  pp/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "34" "-o" "34.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "35" "-o" "35.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "36" "-o" "36.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "37" "-o" "37.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "38" "-o" "38.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "39" "-o" "39.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "40" "-o" "40.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "41" "-o" "41.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "42" "-o" "42.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "43" "-o" "43.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/Xco
+2018-01-10 08:01:41 +0000  deDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "44" "-o" "44.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "45" "-o" "45.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "46" "-o" "46.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "47" "-o" "47.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "48" "-o" "48.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "49" "-o" "49.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "50" "-o" "50.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "51" "-o" "51.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "52" "-o" "52.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libicucore.A.tbd
+      
+2018-01-10 08:01:41 +0000    Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp9FGKm8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-dylib" "-compatibility_version" "1.0.0" "-current_version" "900.0.74.1.0" "-install_name" "@rpath/libswiftCore.dylib" "-ios_version_min" "7.0.0" "-application_extension" "-source_version" "900.0.74.1.0" "-sectcreate" "__TEXT" "__info_plist" "__TEXT,__info_plist" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCore.dylibPkuGp0/libswiftCore.dylib.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libicucore.A.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCore.dylibPkuGp0/libswiftCore.dylib.arm64.out" 
+        -= Output =-
+        ld: warning: embedded dylibs/frameworks only run on iOS 8 or later
+        ld: warning: truncating -current_version to fit in 32-bit space used by old mach-o format
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" 
+        -= Output =-
+        UUID: C18CF018-1F02-3510-9286-56C47CFC6D3D (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796k
+2018-01-10 08:01:41 +0000  csq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripDebug: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "-STx" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+/Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCore.dylib
+2018-01-10 08:01:42 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11296 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib [arm64, 0.001489 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:42 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin -L /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDarwin.dylib --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDarwin.dylib.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDarwin.dylib
+2018-01-10 08:01:42 +0000      Compiling arm64 bitcode in 'libswiftDarwin.dylib'
+2018-01-10 08:01:42 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11305 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" 
+        -= Output =-
+        UUID: 0A2B3149-C0C8-34FB-8E0D-ADE27625A6A2 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftDarwin.dylibRaMbb4/libswiftDarwin.dylib.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempDrr3f8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios7.0" "-Xllvm" "-aarch64-use-tbi" "-O" "-module-name" "Darwin" "-disable-llvm-optzns" "1.bc" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempDrr3f8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "2" "-o" "2.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found fram
+2018-01-10 08:01:42 +0000  ework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempDrr3f8
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-dylib" "-compatibility_version" "1.0.0" "-current_version" "900.0.74.1.0" "-install_name" "@rpath/libswiftDarwin.dylib" "-ios_version_min" "7.0.0" "-application_extension" "-source_version" "900.0.74.1.0" "-sectcreate" "__TEXT" "__info_plist" "__TEXT,__info_plist" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftDarwin.dylibRaMbb4/libswiftDarwin.dylib.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftDarwin.dylibRaMbb4/libswiftDarwin.dylib.arm64.out" 
+        -= Output =-
+        ld: warning: embedded dylibs/frameworks only run on iOS 8 or later
+        ld: warning: truncating -current_version to fit in 32-bit space used by old mach-o format
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" 
+        -= Output =-
+        UUID: A7049DE3-2132-3993-A947-C3CDECF50B7F (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Pa
+2018-01-10 08:01:42 +0000  yload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripDebug: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "-STx" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-01-10 08:01:42 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDarwin.dylib
+2018-01-10 08:01:42 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11320 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib [arm64, 0.001406 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:42 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin -L /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftObjectiveC.dylib --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftObjectiveC.dylib.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftObjectiveC.dylib
+2018-01-10 08:01:42 +0000      Compiling arm64 bitcode in 'libswiftObjectiveC.dylib'
+2018-01-10 08:01:43 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11329 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" 
+        -= Output =-
+        UUID: 4455217F-C1A0-30E6-A394-7CA00C8008B9 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftObjectiveC.dylibgGADgC/libswiftObjectiveC.dylib.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempW6l90w
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios7.0" "-Xllvm" "-aarch64-use-tbi" "-O" "-module-name" "ObjectiveC" "-disable-llvm-optzns" "1.bc" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+2018-01-10 08:01:43 +0000          Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempW6l90w
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-dylib" "-compatibility_version" "1.0.0" "-current_version" "900.0.74.1.0" "-install_name" "@rpath/libswiftObjectiveC.dylib" "-ios_version_min" "7.0.0" "-application_extension" "-source_version" "900.0.74.1.0" "-sectcreate" "__TEXT" "__info_plist" "__TEXT,__info_plist" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftObjectiveC.dylibgGADgC/libswiftObjectiveC.dylib.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftObjectiveC.dylibgGADgC/libswiftObjectiveC.dylib.arm64.out" 
+        -= Output =-
+        ld: warning: embedded dylibs/frameworks only run on iOS 8 or later
+        ld: warning: truncating -current_version to fit in 32-bit space used by old mach-o format
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" 
+        -= Output =-
+        UUID: 0BBE1B2F-7B6C-3E4F-B5A2-27887E9001D8 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/D
+2018-01-10 08:01:43 +0000  eveloper/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripDebug: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "-STx" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-01-10 08:01:43 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftObjectiveC.dylib
+2018-01-10 08:01:43 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11343 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib [arm64, 0.001139 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:43 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin -L /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDispatch.dylib --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDispatch.dylib.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDispatch.dylib
+2018-01-10 08:01:43 +0000      Compiling arm64 bitcode in 'libswiftDispatch.dylib'
+2018-01-10 08:01:44 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11352 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" 
+        -= Output =-
+        UUID: 9AF40A87-C38A-3111-AFD1-C247EA11F6A0 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftDispatch.dyliboIbRgP/libswiftDispatch.dylib.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempTLwGAz
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios7.0" "-Xllvm" "-aarch64-use-tbi" "-O" "-module-name" "Dispatch" "-disable-llvm-optzns" "1.bc" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempTLwGAz
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "2" "-o" "2.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Debug: Found frame
+2018-01-10 08:01:44 +0000  work/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempTLwGAz
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-dylib" "-compatibility_version" "1.0.0" "-current_version" "900.0.74.1.0" "-install_name" "@rpath/libswiftDispatch.dylib" "-ios_version_min" "7.0.0" "-application_extension" "-source_version" "900.0.74.1.0" "-sectcreate" "__TEXT" "__info_plist" "__TEXT,__info_plist" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftDispatch.dyliboIbRgP/libswiftDispatch.dylib.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftDispatch.dyliboIbRgP/libswiftDispatch.dylib.arm64.out" 
+        -= Output =-
+        ld: warning: embedded dylibs/frameworks only run on iOS 8 or later
+        ld: warning: truncating -current_version to fit in 32-bit space used by old mach-o format
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned
+2018-01-10 08:01:44 +0000  /arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" 
+        -= Output =-
+        UUID: EEFA7FD0-A254-3D6D-9B24-D75505F0741C (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripDebug: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "-STx" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-01-10 08:01:44 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftDispatch.dylib
+2018-01-10 08:01:45 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11367 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib [arm64, 0.000809 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:45 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin -L /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreFoundation.dylib --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreFoundation.dylib.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreFoundation.dylib
+2018-01-10 08:01:45 +0000      Compiling arm64 bitcode in 'libswiftCoreFoundation.dylib'
+2018-01-10 08:01:45 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11376 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" 
+        -= Output =-
+        UUID: BFE40B3D-FE18-37BB-B500-9F381025E07F (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCoreFoundation.dylibEvELXx/libswiftCoreFoundation.dylib.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempIKAQJc
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios7.0" "-Xllvm" "-aarch64-use-tbi" "-O" "-module-name" "CoreFoundation" "-disable-llvm-optzns" "1.bc" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswi
+2018-01-10 08:01:45 +0000  ftDispatch.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempIKAQJc
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-dylib" "-compatibility_version" "1.0.0" "-current_version" "900.0.74.1.0" "-install_name" "@rpath/libswiftCoreFoundation.dylib" "-ios_version_min" "7.0.0" "-application_extension" "-source_version" "900.0.74.1.0" "-sectcreate" "__TEXT" "__info_plist" "__TEXT,__info_plist" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCoreFoundation.dylibEvELXx/libswiftCoreFoundation.dylib.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCoreFoundation.dylibEvELXx/libswiftCoreFoundation.dylib.arm64.out" 
+        -= Output =-
+        ld: warning: embedded dylibs/frameworks only run on iOS 8 or later
+        ld: warning: truncating -current_version to fit in 32-bit space used by old mach-o format
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180
+2018-01-10 08:01:45 +0000  110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" 
+        -= Output =-
+        UUID: BDC0E02F-D18B-3DAB-AAC6-2F20036D4991 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripDebug: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "-STx" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-01-10 08:01:45 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreFoundation.dylib
+2018-01-10 08:01:45 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11390 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib [arm64, 0.001425 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:45 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin -L /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreGraphics.dylib --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreGraphics.dylib.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreGraphics.dylib
+2018-01-10 08:01:45 +0000      Compiling arm64 bitcode in 'libswiftCoreGraphics.dylib'
+2018-01-10 08:01:46 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11399 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib" 
+        -= Output =-
+        UUID: DC3BBFE6-5D4F-3329-B275-4894140BA397 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCoreGraphics.dylibAqXNK3/libswiftCoreGraphics.dylib.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempLk6CeJ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios7.0" "-Xllvm" "-aarch64-use-tbi" "-O" "-module-name" "CoreGraphics" "-disable-llvm-optzns" "1.bc" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObject
+2018-01-10 08:01:46 +0000  iveC.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempLk6CeJ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-dylib" "-compatibility_version" "1.0.0" "-current_version" "900.0.74.1.0" "-install_name" "@rpath/libswiftCoreGraphics.dylib" "-ios_version_min" "7.0.0" "-application_extension" "-source_version" "900.0.74.1.0" "-sectcreate" "__TEXT" "__info_plist" "__TEXT,__info_plist" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCoreGraphics.dylibAqXNK3/libswiftCoreGraphics.dylib.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftCoreGraphics.dylibAqXNK3/libswiftCoreGraphics.dylib
+2018-01-10 08:01:46 +0000  .arm64.out" 
+        -= Output =-
+        ld: warning: embedded dylibs/frameworks only run on iOS 8 or later
+        ld: warning: truncating -current_version to fit in 32-bit space used by old mach-o format
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib" 
+        -= Output =-
+        UUID: 8459565C-4A98-357E-A0B8-8A5B5F669395 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripDebug: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "-STx" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-01-10 08:01:46 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftCoreGraphics.dylib
+2018-01-10 08:01:46 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11414 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib [arm64, 0.001294 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:46 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin -L /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftFoundation.dylib --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftFoundation.dylib.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftFoundation.dylib
+2018-01-10 08:01:46 +0000      Compiling arm64 bitcode in 'libswiftFoundation.dylib'
+2018-01-10 08:01:57 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11423 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib" 
+        -= Output =-
+        UUID: 7A6C628E-C037-3BAA-99A4-7B65BF23F9EA (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftFoundation.dylibbMpWTu/libswiftFoundation.dylib.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempyfGjhm
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios7.0" "-Xllvm" "-aarch64-use-tbi" "-O" "-module-name" "Foundation" "-disable-llvm-optzns" "1.bc" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 10 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempyfGjhm
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "2" "-o" "2.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempyfGjhm
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios7.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-O2" "-x" "ir" "3" "-o" "3.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug
+2018-01-10 08:01:57 +0000  : Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/tempyfGjhm
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-dylib" "-compatibility_version" "1.0.0" "-current_version" "900.0.74.1.0" "-install_name" "@rpath/libswiftFoundation.dylib" "-ios_version_min" "7.0.0" "-application_extension" "-source_version" "900.0.74.1.0" "-sectcreate" "__TEXT" "__info_plist" "__TEXT,__info_plist" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftFoundation.dylibbMpWTu/libswiftFoundation.dylib.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "/Applications/Xcode.app/Contents/De
+2018-01-10 08:01:57 +0000  veloper/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libc++.1.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/libswiftFoundation.dylibbMpWTu/libswiftFoundation.dylib.arm64.out" 
+        -= Output =-
+        ld: warning: embedded dylibs/frameworks only run on iOS 8 or later
+        ld: warning: truncating -current_version to fit in 32-bit space used by old mach-o format
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib" 
+        -= Output =-
+        UUID: CB5C1797-AF59-399E-812F-45D487E51F59 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripDebug: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "-STx" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-01-10 08:01:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks/libswiftFoundation.dylib
+2018-01-10 08:01:57 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11444 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib [arm64, 0.000775 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:57 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin -L /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Frameworks --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Scroll\ Data --generate-dsym /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Scroll\ Data.dSYM --strip-swift-symbols /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Scroll\ Data
+2018-01-10 08:01:57 +0000      Compiling arm64 bitcode in 'Scroll\ Data'
+2018-01-10 08:01:58 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 11453 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data" 
+        -= Output =-
+        Non-fat file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data is architecture: arm64
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data" 
+        -= Output =-
+        UUID: 165471CC-BD84-3407-A83D-45AABF62786F (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data" "-extract" "__LLVM" "__bundle" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/Scroll DataFfFXYT/Scroll Data.arm64.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp4AvcUi
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "1" "-o" "1.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp4AvcUi
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "2" "-o" "2.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp4AvcUi
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "3" "-o" "3.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp4AvcUi
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDe
+2018-01-10 08:01:58 +0000  fault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "4" "-o" "4.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp4AvcUi
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "arm64-apple-ios11.2.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "darwinpcs" "-Os" "-x" "ir" "5" "-o" "5.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Swift: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp4AvcUi
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc" "-frontend" "-emit-object" "-target" "arm64-apple-ios11.2" "-Xllvm" "-aarch64-use-tbi" "-O" "-module-name" "Scroll_Data" "-disable-llvm-optzns" "6.bc" "-o" "6.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib
+        Debug: Found framework/dylib: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+        Ld: cd /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/temp4AvcUi
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "arm64" "-execute" "-ios_version_min" "11.2.0" "-e" "_main" "-rpath" "@executable_path/Frameworks" "-executable_path" "/Users/ArmanAydemir/Library/Developer/Xcode/DerivedData/Scroll_Data-dzrmhzwlhkdesoandsxxlfwkldfb/Build/Intermediates.noindex/ArchiveIntermediates/Scroll Data/InstallationBuildProductsLocation/Applications/Scroll Data.app/Scroll Data" "-dead_strip" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/Scroll
+2018-01-10 08:01:58 +0000   DataFfFXYT/Scroll Data.arm64.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/Scroll DataFfFXYT/Scroll Data.arm64.out" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data" 
+        -= Output =-
+        UUID: 50FF5123-0327-3DB7-BCC9-8FF888454B22 (arm64) /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data" "-o" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripSymbols: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+2018-01-10 08:01:58 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll\ Data.app/Scroll\ Data
+2018-01-10 08:01:58 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 11472 exit 0
+    Stdout:
+        /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/ipatool20180110-10892-l5e6zv/thinned/arm64/Payload/Scroll Data.app/Scroll Data [arm64, 0.000756 seconds]:
+    
+    Stderr:
+2018-01-10 08:01:58 +0000  Creating universal IPA contents for all devices
+  Creating directory /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/IDEIPAProcessor.AppThinning.ITv/universal
+  Copying Scroll Data.app output payload directory
+2018-01-10 08:01:58 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:363: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-01-10 08:01:58 +0000    Copying .dSYM files to /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/IDEIPAProcessor.AppThinning.ITv/universal/dSYMs
+  Copying .symbols files to /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/IDEIPAProcessor.AppThinning.ITv/universal/Symbols
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  
+2018-01-10 08:01:58 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+    );
+    universalIPA =     {
+        path = "/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/IDEIPAProcessor.AppThinning.ITv/universal";
+    };
+}
+2018-01-10 08:01:58 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-01-10 08:01:58 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-01-10 08:01:58 +0000  Processing step: IDEDistributionSymbolsStep
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-01-10 08:01:58 +0000  Processing step: IDEDistributionAppThinningStep
+2018-01-10 08:01:58 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-01-10 08:01:58 +0000  Processing step: IDEDistributionODRStep
+2018-01-10 08:01:58 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-01-10 08:01:58 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc503306e40 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc4ff845d20:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCore.dylib'>'>
+2018-01-10 08:01:58 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4fe3072b0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc504205c90:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2018-01-10 08:01:58 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc502216a80 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc5022ef3b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2018-01-10 08:01:58 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc4ff826df0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc514f37f00:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDarwin.dylib'>'>
+2018-01-10 08:01:58 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc5026860e0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc514bdb060:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDispatch.dylib'>'>
+2018-01-10 08:01:58 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc50308f150 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc50239e9b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftFoundation.dylib'>'>
+2018-01-10 08:01:58 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fc50162a6a0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc5149a1e80:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2018-01-10 08:01:58 +0000  Running /usr/bin/xattr '-crs' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app'
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  /usr/bin/xattr exited with 0
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  Processing step: IDEDistributionCodesignStep
+
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc503306e40 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc4ff845d20:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCore.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc50302d8d0>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc503306e40 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc4ff845d20:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCore.dylib'>'>: {
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc503306e40 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7fc4ff845d20:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlements3fPusq
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlements3fPusq' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib'
+2018-01-10 08:01:59 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftCore.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCore]
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  /usr/bin/codesign exited with 0
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc4fe3072b0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc504205c90:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc4ff5b38c0>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc4fe3072b0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc504205c90:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4fe3072b0 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fc504205c90:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementschVlxw
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementschVlxw' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib'
+2018-01-10 08:01:59 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  /usr/bin/codesign exited with 0
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc502216a80 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc5022ef3b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc502524650>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc502216a80 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc5022ef3b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc502216a80 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7fc5022ef3b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsd5nbDY
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsd5nbDY' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib'
+2018-01-10 08:01:59 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  /usr/bin/codesign exited with 02018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc4ff826df0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc514f37f00:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDarwin.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc50335c790>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc4ff826df0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc514f37f00:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc4ff826df0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fc514f37f00:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsq3EcE3
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsq3EcE3' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib'
+2018-01-10 08:01:59 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftDarwin]
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  /usr/bin/codesign exited with 0
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc5026860e0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc514bdb060:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDispatch.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc50307c320>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc5026860e0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc514bdb060:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc5026860e0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7fc514bdb060:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsbj2Me9
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsbj2Me9' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib'
+2018-01-10 08:01:59 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftDispatch]
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  /usr/bin/codesign exited with 02018-01-10 08:01:59 +0000  
+
+
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc50308f150 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc50239e9b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftFoundation.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc5013e4420>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc50308f150 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc50239e9b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc50308f150 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fc50239e9b0:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlements7lFLPV
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlements7lFLPV' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib'
+2018-01-10 08:01:59 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftFoundation]
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  /usr/bin/codesign exited with 0
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc50162a6a0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc5149a1e80:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc5030cf3a0>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc50162a6a0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc5149a1e80:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc50162a6a0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7fc5149a1e80:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsaWodw4
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsaWodw4' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib'
+2018-01-10 08:01:59 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O thin (arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  
+
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  
+2018-01-10 08:01:59 +0000  2018-01-10 08:01:59 +0000  /usr/bin/codesign exited with 02018-01-10 08:01:59 +0000  
+
+
+2018-01-10 08:01:59 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fc5036f30b0 'Arman-Aydemir.Scroll-Data' '<DVTFilePath:0x7fc502467030:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fc5033cb0e0>: {
+}
+2018-01-10 08:01:59 +0000  Entitlements for <IDEDistributionItem: 0x7fc5036f30b0 'Arman-Aydemir.Scroll-Data' '<DVTFilePath:0x7fc502467030:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app'>'>: {
+    "application-identifier" = "R76ADJ3JV7.Arman-Aydemir.Scroll-Data";
+    "com.apple.developer.team-identifier" = R76ADJ3JV7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "R76ADJ3JV7.Arman-Aydemir.Scroll-Data"
+    );
+}
+2018-01-10 08:01:59 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc5036f30b0 'Arman-Aydemir.Scroll-Data' '<DVTFilePath:0x7fc502467030:'/Users/ArmanAydemir/Library/Developer/Xcode/Archives/2018-01-10/Scroll Data 1-10-18, 12.58 AM.xcarchive/Products/Applications/Scroll Data.app'>'> to: /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsWz5Pne
+2018-01-10 08:01:59 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6026F0358360A8532CE7BBE3C48C3D89948F59A5' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/entitlementsWz5Pne' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app'
+2018-01-10 08:02:00 +0000  /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root/Payload/Scroll Data.app: signed app bundle with Mach-O thin (arm64) [Arman-Aydemir.Scroll-Data]
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  2018-01-10 08:02:00 +0000  /usr/bin/codesign exited with 02018-01-10 08:02:00 +0000  
+
+
+2018-01-10 08:02:00 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-01-10 08:02:00 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-01-10 08:02:00 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root' '/var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Packages/Scroll Data.ipa'
+2018-01-10 08:02:00 +0000  >>> Copying /var/folders/c2/jvmdgn8s1s796kcsq_kdsj8w0000gn/T/XcodeDistPipeline.fOp/Root 
+2018-01-10 08:02:00 +0000  copying file ./Payload/Scroll Data.app/_CodeSignature/CodeResources ... 
+2018-01-10 08:02:00 +0000  8461 bytes for ./Payload/Scroll Data.app/_CodeSignature/CodeResources
+2018-01-10 08:02:00 +0000  copying file ./Payload/Scroll Data.app/TextCell.nib ... 
+2018-01-10 08:02:00 +0000  2822 bytes for ./Payload/Scroll Data.app/TextCell.nib
+2018-01-10 08:02:00 +0000  copying file ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/mbO-Jk-rj2-view-xSG-2C-ts7.nib ... 
+2018-01-10 08:02:00 +0000  3684 bytes for ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/mbO-Jk-rj2-view-xSG-2C-ts7.nib
+copying file ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2018-01-10 08:02:00 +0000  964 bytes for ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/UINavigationController-67l-c2-P28.nib ... 
+2018-01-10 08:02:00 +0000  1947 bytes for ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/UINavigationController-67l-c2-P28.nib
+copying file ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2018-01-10 08:02:00 +0000  3015 bytes for ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2018-01-10 08:02:00 +0000  351 bytes for ./Payload/Scroll Data.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/Scroll Data.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2018-01-10 08:02:00 +0000  1790 bytes for ./Payload/Scroll Data.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/Scroll Data.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2018-01-10 08:02:00 +0000  832 bytes for ./Payload/Scroll Data.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/Scroll Data.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/Scroll Data.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Scroll Data.app/archived-expanded-entitlements.xcent ... 
+2018-01-10 08:02:00 +0000  388 bytes for ./Payload/Scroll Data.app/archived-expanded-entitlements.xcent
+copying file ./Payload/Scroll Data.app/Scroll Data ... 
+2018-01-10 08:02:00 +0000  106976 bytes for ./Payload/Scroll Data.app/Scroll Data
+2018-01-10 08:02:00 +0000  copying file ./Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib ... 
+2018-01-10 08:02:00 +0000  66160 bytes for ./Payload/Scroll Data.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/Scroll Data.app/Frameworks/libswiftCore.dylib ... 
+2018-01-10 08:02:00 +0000  4434144 bytes for ./Payload/Scroll Data.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2018-01-10 08:02:00 +0000  116032 bytes for ./Payload/Scroll Data.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib ... 
+2018-01-10 08:02:00 +0000  213648 bytes for ./Payload/Scroll Data.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2018-01-10 08:02:00 +0000  60704 bytes for ./Payload/Scroll Data.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib ... 
+2018-01-10 08:02:00 +0000  69968 bytes for ./Payload/Scroll Data.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib ... 
+2018-01-10 08:02:00 +0000  1733904 bytes for ./Payload/Scroll Data.app/Frameworks/libswiftFoundation.dylib
+2018-01-10 08:02:00 +0000  copying file ./Payload/Scroll Data.app/embedded.mobileprovision ... 
+2018-01-10 08:02:00 +0000  7666 bytes for ./Payload/Scroll Data.app/embedded.mobileprovision
+copying file ./Payload/Scroll Data.app/Info.plist ... 
+2018-01-10 08:02:00 +0000  2359 bytes for ./Payload/Scroll Data.app/Info.plist
+copying file ./Payload/Scroll Data.app/PkgInfo ... 
+2018-01-10 08:02:00 +0000  8 bytes for ./Payload/Scroll Data.app/PkgInfo
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  /usr/bin/ditto exited with 0
+2018-01-10 08:02:00 +0000  
+2018-01-10 08:02:00 +0000  2018-01-10 08:02:00 +0000  Processing step: IDEDistributionCreateManifestStep
+
